@@ -126,9 +126,9 @@ public class Philosopher extends BaseThread
 			 * philosopher is about to say something terribly useful.
 			 */
 			
-			//Chance to talk is 20%
+			//Chance to talking is 25%
 			
-			if(0.2 <= Math.random())
+			if(0.25 <= Math.random())
 			{
 				DiningPhilosophers.soMonitor.requestTalk(getTID());
 				

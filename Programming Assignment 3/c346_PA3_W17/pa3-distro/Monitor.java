@@ -32,7 +32,7 @@ public class Monitor
 
 	/**
 	 * Array containing the states of all the philosophers
-	 * Not really needed
+	 * 
 	 */
 	states[] philosopherState;
 	
@@ -86,7 +86,7 @@ public class Monitor
 		int idx = piTID - 1;
 		while(true){
 			//testing if chopsticks are used
-			if((chopstick[idx] == 0 && chopstick[(idx+1) % numberOfChopsticks] == 0) && lastEater != piTID){
+			if((chopstick[idx] == 0 && chopstick[(idx+1) % numberOfChopsticks] == 0)){
 
 				//EAT WITH CHOPSTICKS
 
@@ -131,7 +131,7 @@ public class Monitor
 
 		} else {
 			//Something went wrong if this is called. edit: commented out because it wont be called. 
-			//System.err.println("Chopsticks are already put down " + idx + ", " + ((idx+1)% numberOfChopsticks));
+			System.err.println("Chopsticks are already put down " + idx + ", " + ((idx+1)% numberOfChopsticks));
 		}
 
 	}

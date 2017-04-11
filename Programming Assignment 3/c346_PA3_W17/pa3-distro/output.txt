@@ -1,0 +1,264 @@
+Set the number of philosophers: 
+
+Using the default number of philosophers (4).
+4 philosopher(s) came in for a dinner.
+Philosopher 1 has started EATING.
+Philosopher 3 has started EATING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 has finished TALKING.
+Philosopher 3 has started EATING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has started EATING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 has finished TALKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started EATING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 has finished TALKING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 has finished TALKING.
+Philosopher 2 has started EATING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 has finished TALKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has started EATING.
+Philosopher 4 has finished THINKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 has finished TALKING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 has finished TALKING.
+Philosopher 3 has started EATING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has started EATING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 has finished TALKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started EATING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: My number is 2
+Philosopher 2 has finished TALKING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 has finished TALKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has started EATING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: My number is 3
+Philosopher 3 has finished TALKING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has finished TALKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has started EATING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 2 has finished THINKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 2 has started EATING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 has finished TALKING.
+Philosopher 4 has started EATING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 has finished TALKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 3 has started EATING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 has finished TALKING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has finished TALKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 has finished TALKING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 has finished TALKING.
+Philosopher 3 has started EATING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 2 has started EATING.
+Philosopher 4 has started EATING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: My number is 1
+Philosopher 1 has finished TALKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: My number is 3
+Philosopher 3 has finished TALKING.
+Philosopher 3 has started EATING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 has finished TALKING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 has finished TALKING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 2 has started EATING.
+Philosopher 4 has started EATING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 has finished TALKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has finished THINKING.
+Philosopher 3 has started TALKING.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 has finished TALKING.
+Philosopher 3 has started EATING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 has finished TALKING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: My number is 4
+Philosopher 4 has finished TALKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 has finished TALKING.
+Philosopher 1 has started EATING.
+Philosopher 3 has finished EATING.
+Philosopher 3 has started THINKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has started EATING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 has finished TALKING.
+Philosopher 3 has finished THINKING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 1 has started EATING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: My number is 4
+Philosopher 4 has finished TALKING.
+Philosopher 2 has finished THINKING.
+Philosopher 2 has started TALKING.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 has finished TALKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 4 has started EATING.
+Philosopher 2 has started EATING.
+Philosopher 4 has finished EATING.
+Philosopher 4 has started THINKING.
+Philosopher 4 has finished THINKING.
+Philosopher 4 has started TALKING.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 has finished TALKING.
+Philosopher 2 has finished EATING.
+Philosopher 2 has started THINKING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 has finished TALKING.
+Philosopher 1 has started EATING.
+Philosopher 2 has finished THINKING.
+Philosopher 1 has finished EATING.
+Philosopher 1 has started THINKING.
+Philosopher 1 has finished THINKING.
+Philosopher 1 has started TALKING.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 has finished TALKING.
+All philosophers have left. System terminates normally.
