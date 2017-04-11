@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Class DiningPhilosophers
  * The main starter.
@@ -46,8 +48,10 @@ public class DiningPhilosophers
 			 * Should be settable from the command line
 			 * or the default if no arguments supplied.
 			 */
-			int iPhilosophers = DEFAULT_NUMBER_OF_PHILOSOPHERS;
-
+			
+			//Used the getNumberOfPhiloWanted method to get the number of philosophers wanted by the user (or use the default)
+			int iPhilosophers = getNumberOfPhiloWanted();
+			
 			// Make the monitor aware of how many philosophers there are
 			soMonitor = new Monitor(iPhilosophers);
 
@@ -55,6 +59,10 @@ public class DiningPhilosophers
 			Philosopher aoPhilosophers[] = new Philosopher[iPhilosophers];
 
 			// Let 'em sit down
+			/*
+			 * Philosophers have PIDs going from 1 to j.
+			 */
+			
 			for(int j = 0; j < iPhilosophers; j++)
 			{
 				aoPhilosophers[j] = new Philosopher();
@@ -80,6 +88,7 @@ public class DiningPhilosophers
 			reportException(e);
 			System.exit(1);
 		}
+		
 	} // main()
 
 	/**
@@ -93,6 +102,35 @@ public class DiningPhilosophers
 		System.err.println("Stack Trace      : ");
 		poException.printStackTrace(System.err);
 	}
+	
+	/**
+	 * Asks the user to specify the number of philosophers.
+	 * Returns the number specified OR uses the default number if the user doesn't specify 
+	 * @return
+	 */
+	public static int getNumberOfPhiloWanted(){
+		try{
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Set the number of philosophers: ");
+		String line = input.nextLine();
+		input.close();
+		
+		int num = Integer.parseInt(line);	
+		
+		if(num <= 0){	
+		System.out.println(num + " is not a positive decimal integer, using default number of philosophers");
+			return DEFAULT_NUMBER_OF_PHILOSOPHERS;
+		} else {
+			return num;
+		}
+		
+		}
+		catch(NumberFormatException e){
+			System.out.println("Using the default number of philosophers (4).");
+			return DEFAULT_NUMBER_OF_PHILOSOPHERS;
+		}
+	}//getNumberOfPhiloWanted
 }
 
 // EOF
