@@ -144,7 +144,7 @@ public class Monitor
 	public synchronized void requestTalk(final int piTID) throws InterruptedException
 	{
 		while(true){
-			if(!isTalking){
+			if(!isTalking && philosopherState[(piTID-1)] != states.EATING){
 				philosopherState[(piTID-1)] = states.TALKING;
 				isTalking = true;
 				break;
